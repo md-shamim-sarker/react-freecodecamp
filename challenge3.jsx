@@ -1,7 +1,6 @@
 /**
  * This is comment
  * This is comment
- * This is comment
  */
 const JSX = (
   <div>

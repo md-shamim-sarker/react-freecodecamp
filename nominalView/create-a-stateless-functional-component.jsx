@@ -1,9 +1,7 @@
 const MyComponent = function() {
-  // Change code below this line
   return (
     <div>
       <p>Hello JSX!</p>
     </div>
   );
-  // Change code above this line
 }

@@ -5,4 +5,3 @@ const JSX = (
     <hr/>
   </div>
 );
-// Notice the self-closing tags <br/> and <hr/>

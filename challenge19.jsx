@@ -6,9 +6,7 @@ class App extends React.Component {
   render() {
     return (
         <div>
-            { /* Change code below this line */ }
             <Welcome name={'Snigdha'}/>
-            { /* Change code above this line */ }
         </div>
     );
   }
@@ -22,9 +20,7 @@ class Welcome extends React.Component {
   render() {
     return (
         <div>
-          { /* Change code below this line */ }
           <p>Hello, <strong>{this.props.name}</strong>!</p>
-          { /* Change code above this line */ }
         </div>
     );
   }

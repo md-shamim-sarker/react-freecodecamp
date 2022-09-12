@@ -10,7 +10,6 @@ class CampSite extends React.Component {
     );
   }
 };
-// Change code below this line
 class Camper extends React.Component {
   constructor(props){
     super(props);
